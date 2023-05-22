@@ -8,7 +8,7 @@ exports.welcomeFunction=function() {
       }
     });
 }
-
+// unused
 exports.placesFunction = function () {
   document.getElementById("cards").onmousemove = e => {
     for (const card of document.getElementsByClassName("card")) {
