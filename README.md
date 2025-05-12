@@ -1,2 +1,2 @@
 # pomorzenadw-vmay
-vmay
+deprecated school project
